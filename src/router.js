@@ -1,6 +1,6 @@
 import React from 'react'
 import {HashRouter, Route, Switch} from 'react-router-dom'
-import Home from './pages/home'
+import Home from './containers/home'
 import Detail from './pages/detail'
 
 
