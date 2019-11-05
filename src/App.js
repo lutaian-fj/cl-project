@@ -8,7 +8,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          开启create-react-app学习之旅.
+          开启create-react-app学.
         </p>
       </header>
     </div>
